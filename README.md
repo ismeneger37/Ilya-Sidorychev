@@ -60,6 +60,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/fluent/600/000000/spyder-ide-5.png" title="spyder" alt="spyder" width="40" height="40"/>&nbsp
   
 </div>
 
