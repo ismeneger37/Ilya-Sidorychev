@@ -71,7 +71,6 @@
 ### ✏️ Примеры моих работ:
 <div id="links">
       <a href="https://github.com/ismeneger37/Stepik_Automation_Study_Project" target="_blank">
-      <a href="https://github.com/ismeneger37/stepik">
       <img src="https://facultetus.ru/images/stepik_simple_logo.png" width="40" height="40" alt="stepik" />
       </a>
       <a href="https://github.com/ismeneger37/Test"></a>
