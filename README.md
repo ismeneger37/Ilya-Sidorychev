@@ -74,5 +74,6 @@
       <a href="https://github.com/ismeneger37/Stepik_Automation_Study_Project" target="_blank">
       <a href="https://github.com/ismeneger37/stepik" target="_blank">
       <a href="https://github.com/ismeneger37/studying-Git" target="_blank">
+      </a>
       
   </div>
