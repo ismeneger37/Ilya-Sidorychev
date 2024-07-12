@@ -70,10 +70,10 @@
 
 ### ✏️ Примеры моих работ:
 <div id="links">
-      <a href="https://github.com/ismeneger37/Test">&nbsp
-      <a href="https://github.com/ismeneger37/Stepik_Automation_Study_Project">&nbsp
-      <a href="https://github.com/ismeneger37/stepik">&nbsp
-      <a href="https://github.com/ismeneger37/studying-Git">&nbsp
-      </a>
+      <a href="https://github.com/ismeneger37/Test">
+      <a href="https://github.com/ismeneger37/Stepik_Automation_Study_Project">
+      <a href="https://github.com/ismeneger37/stepik">
+      <a href="https://github.com/ismeneger37/studying-Git">
+     
       
   </div>
