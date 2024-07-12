@@ -75,5 +75,4 @@
       <a href="https://github.com/ismeneger37/stepik"></a>
       <a href="https://github.com/ismeneger37/studying-Git"></a>
      
-      
-  </div>
+</div>
